@@ -1,4 +1,4 @@
-# Chess-Game
+# Chess_Game
 Simulates a chess game. Currently under development
 
 Recent changes:
